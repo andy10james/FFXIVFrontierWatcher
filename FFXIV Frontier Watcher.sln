@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIV Frontier Watcher", "FFXIV Frontier Watcher\FFXIV Frontier Watcher.csproj", "{B778722F-EF93-489E-8AC1-6068D2059969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIV Frontier Watcher Core", "FFXIV Frontier Watcher Core\FFXIV Frontier Watcher Core.csproj", "{B790E617-55BD-4114-8F2E-7984371D0DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Debug|x64.ActiveCfg = Debug|x64
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Debug|x64.Build.0 = Debug|x64
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Debug|x86.ActiveCfg = Debug|x86
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Debug|x86.Build.0 = Debug|x86
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Release|x64.ActiveCfg = Release|x64
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Release|x64.Build.0 = Release|x64
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Release|x86.ActiveCfg = Release|x86
+		{B778722F-EF93-489E-8AC1-6068D2059969}.Release|x86.Build.0 = Release|x86
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Debug|x64.ActiveCfg = Debug|x64
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Debug|x64.Build.0 = Debug|x64
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Debug|x86.ActiveCfg = Debug|x86
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Debug|x86.Build.0 = Debug|x86
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Release|x64.ActiveCfg = Release|x64
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Release|x64.Build.0 = Release|x64
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Release|x86.ActiveCfg = Release|x86
+		{B790E617-55BD-4114-8F2E-7984371D0DD0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91461DBC-73EA-4857-A5C0-0DAAEAE56D98}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FFXIV_Frontier_Watcher_Core" GeneratedClassName="app">
+  <Profiles />
+  <Settings>
+    <Setting Name="StatusUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://frontier.ffxiv.com/worldStatus/current_status.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
